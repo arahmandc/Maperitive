@@ -1,0 +1,29 @@
+use-ruleset location=Rules/MyOwn.mrules as-alias=myrules
+
+
+
+
+
+use-ruleset location=Rules/40x7012mm.mrules as-alias=40x7012mm
+use-ruleset location=Rules/airports.mrules as-alias=airports
+use-ruleset location=Rules/allareas.mrules as-alias=allareas
+use-ruleset location=Rules/bigmap.mrules as-alias=bigmap
+use-ruleset location=Rules/bing.mrules as-alias=bing
+use-ruleset location=Rules/black_and_white.mrules as-alias=black_and_white
+use-ruleset location=Rules/blackandwhite.mrules as-alias=blackandwhite
+use-ruleset location=Rules/blackandwhite2.mrules as-alias=blackandwhite2
+use-ruleset location=Rules/Blueprint.mrules as-alias=Blueprint
+use-ruleset location=Rules/Chris49N.mrules as-alias=Chris49N
+use-ruleset location=Rules/duncan-experimental.mrules as-alias=duncan-experimental
+use-ruleset location=Rules/contours.mrules as-alias=contours
+
+use-ruleset location=Rules/fantasy.mrules as-alias=fantasy
+use-ruleset location=Rules/hc.mrules as-alias=hc
+use-ruleset location=Rules/laser.mrules as-alias=laser
+use-ruleset location=Rules/lines.mrules as-alias=lines
+use-ruleset location=Rules/mapquest.mrules as-alias=mapquest
+use-ruleset location=Rules/Neutralmap.mrules as-alias=Neutralmap
+use-ruleset location=Rules/paperacrylic.mrules as-alias=paperacrylic
+use-ruleset location=Rules/PCB.mrules as-alias=PCB
+use-ruleset location=Rules/Schwarzplan.mrules as-alias=Schwarzplan
+use-ruleset location=Rules/streets.mrules as-alias=streets
